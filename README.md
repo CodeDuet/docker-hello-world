@@ -14,4 +14,4 @@ docker run -p 80:80/tcp "ksapp/helloworld:latest"
 
 Dockerhub link: https://hub.docker.com/r/ksapp/helloworld/
 
-Github link: https://github.com/codeduet/docker-helloworld
+Github link: https://github.com/CodeDuet/docker-hello-world
