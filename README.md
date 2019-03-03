@@ -6,12 +6,12 @@ A simple nginx helloworld application that helps you learn docker image pulls. R
 
 To pull this image:
 
-docker pull ksapp/helloworld:latest
+docker pull ksapp/docker-hello-world:latest
 
 To run this image:
 
-docker run -p 80:80/tcp "ksapp/helloworld:latest"
+docker run -p 80:80/tcp "ksapp/docker-hello-world:latest"
 
-Dockerhub link: https://hub.docker.com/r/ksapp/helloworld/
+Dockerhub link: https://hub.docker.com/r/ksapp/docker-hello-world
 
-Github link: https://github.com/CodeDuet/docker-hello-world
+Github link: https://github.com/codeduet/docker-helloworld
